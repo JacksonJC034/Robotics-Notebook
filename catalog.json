@@ -1,0 +1,122 @@
+[
+  {
+    "title": "机器人学基础",
+    "path": "notes/robotics.html",
+    "tags": [
+      "运动学",
+      "坐标变换"
+    ],
+    "summary": "在三维空间中，旋转与平移共同描述刚体位姿。下面约定 $T_{AB}$ 将 B 系坐标转换到 A 系。"
+  },
+  {
+    "title": "SLAM 与状态估计",
+    "path": "notes/slam.html",
+    "tags": [
+      "SLAM",
+      "概率估计"
+    ],
+    "summary": "SLAM 联合估计机器人轨迹 $x_{0:T}$ 与地图 $m$。观测为 $z_{1:T}$，控制输入为 $u_{1:T}$。"
+  },
+  {
+    "title": "运动规划",
+    "path": "notes/planning.html",
+    "tags": [
+      "规划",
+      "搜索"
+    ],
+    "summary": "规划空间由自由空间 $\\mathcal C_{free}$ 和障碍空间组成。目标是在约束内连接起点与终点，而不是只找到视觉上平滑的曲线。"
+  },
+  {
+    "title": "控制理论",
+    "path": "notes/control.html",
+    "tags": [
+      "控制",
+      "PID"
+    ],
+    "summary": "定义跟踪误差 $e(t)=r(t)-y(t)$。连续时间 PID 的基本形式为："
+  },
+  {
+    "title": "机械结构设计",
+    "path": "notes/mechanics.html",
+    "tags": [
+      "机械设计",
+      "工程验证"
+    ],
+    "summary": "结构笔记以负载、包络尺寸、速度、精度和制造约束为起点。所有参数都应注明单位、来源和安全系数的选取依据。"
+  },
+  {
+    "title": "专利分析",
+    "path": "notes/patents.html",
+    "tags": [
+      "专利",
+      "检索方法"
+    ],
+    "summary": "这里用于记录技术方案与检索过程。示例不对应真实专利，也不包含法律状态结论。"
+  },
+  {
+    "title": "差速移动机器人导航",
+    "path": "projects/mobile-robot.html",
+    "tags": [
+      "项目",
+      "SLAM",
+      "控制"
+    ],
+    "summary": ""
+  },
+  {
+    "title": "把一次学习，变成可复用的知识",
+    "path": "blog/first-note.html",
+    "tags": [
+      "学习记录"
+    ],
+    "summary": ""
+  },
+  {
+    "title": "复用模板",
+    "path": "templates.html",
+    "tags": [
+      "模板"
+    ],
+    "summary": ""
+  },
+  {
+    "title": "关于我",
+    "path": "about.html",
+    "tags": [
+      "关于"
+    ],
+    "summary": ""
+  },
+  {
+    "title": "维护指南",
+    "path": "maintenance.html",
+    "tags": [
+      "维护"
+    ],
+    "summary": ""
+  },
+  {
+    "title": "知识库",
+    "path": "knowledge.html",
+    "tags": [
+      "知识库"
+    ],
+    "summary": ""
+  },
+  {
+    "title": "项目",
+    "path": "projects.html",
+    "tags": [
+      "项目"
+    ],
+    "summary": ""
+  },
+  {
+    "title": "博客与学习记录",
+    "path": "blog.html",
+    "tags": [
+      "学习记录"
+    ],
+    "summary": ""
+  }
+]

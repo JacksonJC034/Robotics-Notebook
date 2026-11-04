@@ -1,0 +1,15 @@
+project = '机器人札记'
+author = 'Robotics Notebook'
+copyright = '2026, Robotics Notebook'
+language = 'zh_CN'
+extensions = ['myst_parser', 'sphinx.ext.mathjax']
+myst_enable_extensions = ['dollarmath', 'amsmath', 'colon_fence']
+html_theme = 'furo'
+html_title = '机器人札记 · Robotics Notebook'
+html_static_path = ['_static']
+html_css_files = ['notebook.css']
+html_js_files = ['notebook.js']
+html_theme_options = {'light_css_variables': {'color-brand-primary':'#6958b5','color-brand-content':'#6958b5','color-sidebar-background':'#f7f7fa','font-stack':'Inter, -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang SC", sans-serif'},'dark_css_variables': {'color-brand-primary':'#b5a8ed','color-brand-content':'#b5a8ed'}}
+mathjax_path = 'https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js'
+exclude_patterns = []
+html_js_files = ['catalog-data.js', 'notebook.js']
