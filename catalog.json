@@ -118,5 +118,86 @@
       "学习记录"
     ],
     "summary": ""
+  },
+  {
+    "title": "Mathematics for Robotics",
+    "path": "courses/robotics-math/index.html",
+    "tags": [
+      "Preliminary Mathematics for Robotics",
+      "Mathematics for Robotics"
+    ],
+    "summary": "These notes cover proofs, linear algebra, and inner product spaces, then use those tools to solve least squares problems, estimate states, and establish when an optimum exists."
+  },
+  {
+    "title": "Linear System Theory",
+    "path": "courses/linear-systems.html",
+    "tags": [
+      "Preliminary Mathematics for Robotics",
+      "Linear System Theory"
+    ],
+    "summary": "Lecture notes are pending."
+  },
+  {
+    "title": "Chapter 1. Mathematical Arguments",
+    "path": "courses/robotics-math/ch1.html",
+    "tags": [
+      "Preliminary Mathematics for Robotics",
+      "Mathematics for Robotics"
+    ],
+    "summary": "Quantifier order, implications, proof techniques, truth tables, and the distinction between bounds and attained extrema."
+  },
+  {
+    "title": "Chapter 2. Abstract Linear Algebra",
+    "path": "courses/robotics-math/ch2.html",
+    "tags": [
+      "Preliminary Mathematics for Robotics",
+      "Mathematics for Robotics"
+    ],
+    "summary": "Use a polynomial trajectory to work through bases, coordinate changes, eigenvectors, and rank."
+  },
+  {
+    "title": "Chapter 3. Inner Product Spaces and Least Squares",
+    "path": "courses/robotics-math/ch3.html",
+    "tags": [
+      "Preliminary Mathematics for Robotics",
+      "Mathematics for Robotics"
+    ],
+    "summary": "Derive normal equations, weighted fits, minimum-norm solutions, and recursive least squares from projection."
+  },
+  {
+    "title": "Chapter 4. Matrix Factorizations",
+    "path": "courses/robotics-math/ch4.html",
+    "tags": [
+      "Preliminary Mathematics for Robotics",
+      "Mathematics for Robotics"
+    ],
+    "summary": "Choose between QR, SVD, pivoted LU, and Cholesky using worked linear systems and a weakly observed parameter."
+  },
+  {
+    "title": "Chapter 5. Probability, Estimation, and the Kalman Filter",
+    "path": "courses/robotics-math/ch5.html",
+    "tags": [
+      "Preliminary Mathematics for Robotics",
+      "Mathematics for Robotics"
+    ],
+    "summary": "Derive uncertainty-weighted estimates from a sensor model, then predict and update a moving state."
+  },
+  {
+    "title": "Chapter 6. Real Analysis",
+    "path": "courses/robotics-math/ch6.html",
+    "tags": [
+      "Preliminary Mathematics for Robotics",
+      "Mathematics for Robotics"
+    ],
+    "summary": "Distinguish small steps from convergence and use completeness, contraction, and compactness to prove guarantees."
+  },
+  {
+    "title": "Chapter 7. Introduction to Optimization",
+    "path": "courses/robotics-math/ch7.html",
+    "tags": [
+      "Preliminary Mathematics for Robotics",
+      "Mathematics for Robotics"
+    ],
+    "summary": "Compare three calibration fits and formulate their objectives as quadratic or linear programs."
   }
 ]

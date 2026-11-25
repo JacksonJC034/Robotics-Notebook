@@ -1,6 +1,14 @@
 # 知识库
 
-按问题组织知识，让理论、代码与实验相互连接。以下为初始示例，后续可按专题拆分子目录。
+## Course Topics
+
+```{toctree}
+:maxdepth: 1
+
+courses/index
+```
+
+## 研究方向
 
 - [机器人学基础](notes/robotics.md) — 运动学,坐标变换
 - [SLAM 与状态估计](notes/slam.md) — SLAM,概率估计
