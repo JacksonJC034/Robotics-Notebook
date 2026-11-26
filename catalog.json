@@ -135,7 +135,7 @@
       "Preliminary Mathematics for Robotics",
       "Linear System Theory"
     ],
-    "summary": "Lecture notes are pending."
+    "summary": "EECS 560 / ME 564 course notes on state response, stability, reachability, observability, realizations, and feedback."
   },
   {
     "title": "Chapter 1. Mathematical Arguments",
@@ -199,5 +199,68 @@
       "Mathematics for Robotics"
     ],
     "summary": "Compare three calibration fits and formulate their objectives as quadratic or linear programs."
+  },
+  {
+    "title": "Chapter 1. State-Space Models and Linearization",
+    "path": "courses/linear-systems/models.html",
+    "tags": [
+      "Preliminary Mathematics for Robotics",
+      "Linear System Theory"
+    ],
+    "summary": "Classify state models, sample a moving axis, and linearize a torque-driven pendulum about equilibrium."
+  },
+  {
+    "title": "Chapter 2. Linear Operators, Projection, and Singular Values",
+    "path": "courses/linear-systems/operators.html",
+    "tags": [
+      "Preliminary Mathematics for Robotics",
+      "Linear System Theory"
+    ],
+    "summary": "Use adjoints, projections, weighted allocation, and singular values to solve linear inverse problems."
+  },
+  {
+    "title": "Chapter 3. Modes and State Response",
+    "path": "courses/linear-systems/response.html",
+    "tags": [
+      "Preliminary Mathematics for Robotics",
+      "Linear System Theory"
+    ],
+    "summary": "Compute continuous- and discrete-time trajectories with Jordan chains, transition matrices, and forced responses."
+  },
+  {
+    "title": "Chapter 4. Internal and Input–Output Stability",
+    "path": "courses/linear-systems/stability.html",
+    "tags": [
+      "Preliminary Mathematics for Robotics",
+      "Linear System Theory"
+    ],
+    "summary": "Read stability from modes and phase portraits, use a Lyapunov certificate, and test BIBO stability."
+  },
+  {
+    "title": "Chapter 5. Reachability and Observability",
+    "path": "courses/linear-systems/reachability.html",
+    "tags": [
+      "Preliminary Mathematics for Robotics",
+      "Linear System Theory"
+    ],
+    "summary": "Use rank tests, adjoints, and Gramians to plan a minimum-energy move and recover an initial state."
+  },
+  {
+    "title": "Chapter 6. Transfer Functions and Realizations",
+    "path": "courses/linear-systems/realizations.html",
+    "tags": [
+      "Preliminary Mathematics for Robotics",
+      "Linear System Theory"
+    ],
+    "summary": "Build canonical and modal realizations and use the Kalman decomposition to identify hidden dynamics."
+  },
+  {
+    "title": "Chapter 7. Feedback, Observers, and Optimal Control",
+    "path": "courses/linear-systems/feedback.html",
+    "tags": [
+      "Preliminary Mathematics for Robotics",
+      "Linear System Theory"
+    ],
+    "summary": "Place controller and observer poles for a moving axis, then relate LQR and LQG gains to design objectives."
   }
 ]
